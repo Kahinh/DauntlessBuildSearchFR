@@ -1,59 +1,44 @@
-# Dauntless-Build-Search
-Best way to find builds for desired Perks/Cells!
+# Dauntless-Build-Search-FR
+Cet outil est basé sur l'excellent travail de BeastBlaze et traduit en Français.
+Lien du site officiel : https://dauntlessbuildsearch.ml/
 
-- Website: http://dauntlessbuildsearch.tk/
-- Proxy site: https://dauntlessbuildsearch.netlify.app/
-- Proxy site: https://siddagra.github.io/Dauntless-Build-Search/
-- Proxy site: https://siddagra.github.io/
-- Discord: https://discord.gg/we8tkk
+Le meilleur moyen de créer vos builds avec les Effets/Cellules voulus !
 
-## Featues:
-- Makes Dauntless builds based on desired Perks/Cells
-- Fastest build searcher for dauntless. Completes searches in 100ms.
-- Shows what extra perks you can add in a neat UI
-- Exports builds to [dauntless-builder.com](https://www.dauntless-builder.com/) with meta weapon mods pre-equipped
-- Allows you to lock a weapon/ armor piece
-- Has a decent selection of meta builds under "Builds" tab
+- Site Web : https://kahinh.github.io/DauntlessBuildSearchFR/
+- Discord : https://discord.gg/FhSCHfa2u8
 
-## Support us/Give feedback:
-Giving us feedback, feature requests, bug-reports, or ask questions at Dauntless Build Search Discord.
+## Fonctionnalités :
+- Créer facilement vos builds avec les effets/cellules souhaités !
+- Calculateur de builds le plus rapide de Dauntless. Recherche terminée en 100ms.
+- Visualisation des cellules pouvant être ajoutées dans une interface simple et efficace.
+- Export des builds sur [dauntless-builder.fr](https://dauntless-builder.fr/).
+- Filtres possibles sur les armes & armures.
 
-Support us by sharing this website on Dauntless Reddit and with your friends and upvoting original post on Reddit.
+## A propos / Support / Retours
+Vous pouvez nous donner vos retours, vos requêtes, et vos bugs sur notre Discord : https://discord.gg/FhSCHfa2u8
 
-Thank you!
+Merci à vous d'utiliser et de partager ce calculateur de builds !
 
 ### 😄
 
-## To-do list:
-### UI:
-- [x] Weapon and armor filters
-- [x] More attractive UI
-- [x] Make bonus perks highlighting more appealing
-- [x] Dauntless-Builder links
-- [ ] Mobile ui optimization
-- [X] French translation
-- [ ] Fix +3 perk descriptions
-- [ ] Reset perks button
-- [ ] Fix tooltips misallignment
-- [ ] Remove button on perk buttons
-- [ ] Expanded Lists
-- [ ] Grid Lists
-### Optimizations:
-- [X] Lightning fast searches
-- [ ] Scaled images (cloudinary imagekit)
-- [ ] More effecient dom updates
-- [ ] 404 redirects
-- [ ] SEO
-- [ ] query paramater instead of query string
-### Features:
-- [X] Bonus perks tooltip
-- [X] Dauntless-Builder exporter with meta parts
-- [ ] Filters: Exclusions, Cells, resistance
-- [ ] Disable exotics once weapon is clicked on
-- [ ] Webpage for build url hosting
+## To-do liste:
+### Interface:
+- [X] Traduire les cellules Défense
+- [] Traduire les cellules Mobilité
+- [] Traduire les cellules Puissance
+- [] Traduire les cellules Technique
+- [] Traduire les cellules Utilitaires
+- [] Traduire les armes
+- [] Traduire les armures
+- [] Traduire les types de cellules
+- [] Réorganiser les cellules dans l'ordre alphabétique
+
+### Optimisations:
+
+### Fonctionnalités:
+
 
 <br/><br/><br/>
 
-Assets owned by Pheonix Labs
-
-Database from [Dauntless-Builder](https://github.com/atomicptr/dauntless-builder)
+Phoenix Labs est propriétaire des assets.
+La base de données originale provient de : [Dauntless-Builder](https://github.com/atomicptr/dauntless-builder)
