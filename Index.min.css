@@ -133,7 +133,7 @@ h4 {
 }
 
 .MainBox {
-    background-color: rgba(0, 0, 0, .5);
+    background-color: rgba(0, 0, 0, .6);
     border-radius: 5px;
     flex-direction: column;
     display: flex;
@@ -220,7 +220,7 @@ img {
     position: sticky;
     top: 10px;
     border-radius: 5px;
-    background-color: rgba(0, 0, 0, .5);
+    background-color: rgba(0, 0, 0, .6);
     color: #fff;
     text-align: center;
     padding: 10px 20px 10px 5px;
