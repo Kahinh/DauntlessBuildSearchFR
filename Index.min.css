@@ -201,7 +201,8 @@ img {
 
 .PrintEquipment {
     flex-direction: row;
-    display: flex
+    display: flex;
+    justify-content: center;
 }
 
 .ArmorIcon {
