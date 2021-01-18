@@ -316,10 +316,17 @@ img {
 .PossibleBuildsTable {
     font-size: 20px;
     margin-top: 10px;
-    background-color: rgba(0, 0, 0, .9);
+    /* background-color: rgba(0, 0, 0, .9); */
     color: #fff;
     border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px
+}
+#Builds\ Table\ Body {
+    background-color: rgba(0, 0, 0, .6);
+}
+
+thead {
+    background-color: rgba(0, 0, 0, 0.9);
 }
 
 .select-dropdown {
