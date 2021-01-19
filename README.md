@@ -23,6 +23,7 @@ Merci à vous d'utiliser et de partager ce calculateur de builds !
 
 ## To-do liste:
 ### Interface:
+- [] Logo DBS FR
 - [X] Traduire les cellules Défense
 - [] Traduire les cellules Mobilité
 - [] Traduire les cellules Puissance
@@ -34,6 +35,9 @@ Merci à vous d'utiliser et de partager ce calculateur de builds !
 - [] Réorganiser les cellules dans l'ordre alphabétique
 
 ### Optimisations:
+- [] Revoir le CSS des cellules tooltipped
+- [] Revoir le display "A propos"
+- [] Revoir le display "Builds" vers le Codex
 
 ### Fonctionnalités:
 
