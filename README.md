@@ -38,7 +38,7 @@ Merci à vous d'utiliser et de partager ce calculateur de builds !
 - [] Revoir le CSS des cellules tooltipped
 - [] Revoir le display "A propos"
 - [] Revoir le display "Builds" vers le Codex
-- [] Réduire la hauteur de la page d'accueil par défaut
+- [X] Réduire la hauteur de la page d'accueil par défaut
 
 ### Fonctionnalités:
 
