@@ -38,6 +38,7 @@ Merci à vous d'utiliser et de partager ce calculateur de builds !
 - [X] Retirer les majuscules à chaque mot dans les titres de cellule : "Tempête De Lames"
 - [X] Modifier l'ordre d'affichage des types d'arme et noms de Behemoth dans la PossibleBuildTables - Boreus Hache -> Hache Boreus
 - [X] Traduire Weapon, dans l'onglet Filtres
+- [] Traduire Generic dans type de Behemoths
 
 ### Optimisations:
 - [] Revoir le CSS des cellules tooltipped
@@ -45,6 +46,7 @@ Merci à vous d'utiliser et de partager ce calculateur de builds !
 - [] Revoir l'onglet "Builds" vers le Codex
 - [X] Réduire la hauteur de la page d'accueil par défaut
 - [] N'afficher le bouton Nouveau Build que dans les onglets : Effets & Filtres
+- [] Améliorer le rendu graphique téléphone
 
 ### Fonctionnalités:
 
