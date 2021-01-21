@@ -33,6 +33,7 @@ Merci à vous d'utiliser et de partager ce calculateur de builds !
 - [] Traduire les armures
 - [] Traduire les types de cellules
 - [] Réorganiser les cellules dans l'ordre alphabétique
+- [] Retirer les majuscules à chaque mot dans les titres de cellule : "Tempête De Lames"
 
 ### Optimisations:
 - [] Revoir le CSS des cellules tooltipped
