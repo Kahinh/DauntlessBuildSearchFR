@@ -36,6 +36,7 @@ Merci à vous d'utiliser et de partager ce calculateur de builds !
 - [X] Traduire les types de cellules
 - [] Réorganiser les cellules dans l'ordre alphabétique
 - [] Retirer les majuscules à chaque mot dans les titres de cellule : "Tempête De Lames"
+- [] Modifier l'ordre d'affichage des types d'arme et noms de Behemoth dans la PossibleBuildTables - Boreus Hache -> Hache Boreus
 
 ### Optimisations:
 - [] Revoir le CSS des cellules tooltipped
