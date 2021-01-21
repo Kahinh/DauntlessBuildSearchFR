@@ -49,6 +49,7 @@ Merci à vous d'utiliser et de partager ce calculateur de builds !
 - [X] Réduire la hauteur de la page d'accueil par défaut
 - [] N'afficher le bouton Nouveau Build que dans les onglets : Effets & Filtres
 - [] Améliorer le rendu graphique téléphone
+- [] Passer sur un nom de domaine
 
 ### Fonctionnalités:
 
