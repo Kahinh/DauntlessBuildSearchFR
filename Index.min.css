@@ -83,7 +83,7 @@ h4 {
 }
 
 .btn {
-    text-transform: capitalize
+    text-transform: none;
 }
 
 .plus6::before {
