@@ -31,7 +31,9 @@ Merci à vous d'utiliser et de partager ce calculateur de builds !
 - [X] Traduire les cellules Utilitaires
 - [] Traduire les armes
 - [] Traduire les armures
-- [] Traduire les types de cellules
+- [X] Traduire les types d'armes
+- [X] Traduire les types d'armures
+- [X] Traduire les types de cellules
 - [] Réorganiser les cellules dans l'ordre alphabétique
 - [] Retirer les majuscules à chaque mot dans les titres de cellule : "Tempête De Lames"
 
