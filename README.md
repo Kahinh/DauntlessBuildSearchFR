@@ -11,7 +11,7 @@ Le meilleur moyen de créer vos builds avec les Effets/Cellules voulus !
 - Créer facilement vos builds avec les effets/cellules souhaités !
 - Calculateur de builds le plus rapide de Dauntless. Recherche terminée en 100ms.
 - Visualisation des cellules pouvant être ajoutées dans une interface simple et efficace.
-- Export des builds sur [dauntless-builder.fr](https://dauntless-builder.fr/).
+- Export des builds sur [dauntless-builder.fr](https://dauntless-builder.fr/) - Site maintenu par Medaey
 - Filtres possibles sur les armes & armures.
 
 ## A propos / Support / Retours
@@ -44,6 +44,7 @@ Merci à vous d'utiliser et de partager ce calculateur de builds !
 - [] Revoir l'onglet "A propos"
 - [] Revoir l'onglet "Builds" vers le Codex
 - [X] Réduire la hauteur de la page d'accueil par défaut
+- [] N'afficher le bouton Nouveau Build que dans les onglets : Effets & Filtres
 
 ### Fonctionnalités:
 
