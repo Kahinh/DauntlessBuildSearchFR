@@ -26,7 +26,7 @@ Merci à vous d'utiliser et de partager ce calculateur de builds !
 - [] Logo DBS FR
 - [X] Traduire les cellules Défense
 - [X] Traduire les cellules Mobilité
-- [] Traduire les cellules Puissance
+- [X] Traduire les cellules Puissance
 - [] Traduire les cellules Technique
 - [] Traduire les cellules Utilitaires
 - [] Traduire les armes
