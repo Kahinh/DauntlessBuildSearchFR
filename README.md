@@ -27,8 +27,8 @@ Merci à vous d'utiliser et de partager ce calculateur de builds !
 - [X] Traduire les cellules Défense
 - [X] Traduire les cellules Mobilité
 - [X] Traduire les cellules Puissance
-- [] Traduire les cellules Technique
-- [] Traduire les cellules Utilitaires
+- [X] Traduire les cellules Technique
+- [X] Traduire les cellules Utilitaires
 - [] Traduire les armes
 - [] Traduire les armures
 - [] Traduire les types de cellules
@@ -36,8 +36,8 @@ Merci à vous d'utiliser et de partager ce calculateur de builds !
 
 ### Optimisations:
 - [] Revoir le CSS des cellules tooltipped
-- [] Revoir le display "A propos"
-- [] Revoir le display "Builds" vers le Codex
+- [] Revoir l'onglet "A propos"
+- [] Revoir l'onglet "Builds" vers le Codex
 - [X] Réduire la hauteur de la page d'accueil par défaut
 
 ### Fonctionnalités:
