@@ -35,7 +35,7 @@ Merci à vous d'utiliser et de partager ce calculateur de builds !
 - [X] Traduire les types d'armures
 - [X] Traduire les types de cellules
 - [] Réorganiser les cellules dans l'ordre alphabétique
-- [] Réorganiser les behemoths dans l'ordre alphabétique
+- [X] Réorganiser les behemoths dans l'ordre alphabétique
 - [X] Retirer les majuscules à chaque mot dans les titres de cellule : "Tempête De Lames"
 - [X] Modifier l'ordre d'affichage des types d'arme et noms de Behemoth dans la PossibleBuildTables - Boreus Hache -> Hache Boreus
 - [X] Traduire Weapon, dans l'onglet Filtres
