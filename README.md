@@ -44,7 +44,7 @@ Merci à vous d'utiliser et de partager ce calculateur de builds !
 
 ### Optimisations:
 - [] Revoir le CSS des cellules tooltipped
-- [] Revoir l'onglet "A propos"
+- [X] Revoir l'onglet "A propos"
 - [] Revoir l'onglet "Builds" vers le Codex
 - [X] Réduire la hauteur de la page d'accueil par défaut
 - [] N'afficher le bouton Nouveau Build que dans les onglets : Effets & Filtres
