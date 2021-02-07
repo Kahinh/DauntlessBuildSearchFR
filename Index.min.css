@@ -114,7 +114,7 @@ h4 {
 }
 
 .footer {
-    padding-top : 10px;;
+    padding-top: 10px;
     color: #fff;
     display: flex;
     flex-direction: column;
@@ -143,6 +143,7 @@ h4 {
     align-items: center;
     width: 80%;
     margin-bottom: 100px;
+    min-width: 900px;
 }
 
 .displayHorizontal {
@@ -230,6 +231,7 @@ img {
     display: flex;
     height: 98vh;
     width: 35%;
+    min-width: 350px;
     overflow-x: hidden;
     overflow-y: auto
 }
@@ -250,7 +252,7 @@ img {
     display: flex;
     border-radius: 2px!important;
     width: 90%;
-    width: fill-available;
+    /* width: fill-available; */
     background-color: rgba(0, 0, 0, .9);
     transition: transform .2s;
     text-align: left;
@@ -261,8 +263,12 @@ img {
     flex-direction: column;
     display: flex;
     margin-top: 5px;
+    margin-left: 1px;
+    margin-right: 1px;
+    margin-bottom: 5px;
     color: #fff;
-    justify-content: center
+    justify-content: center;
+    width: 10%;
 }
 
 .rankIcon {
@@ -322,6 +328,7 @@ img {
     border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px
 }
+
 #Builds\ Table\ Body {
     background-color: rgba(0, 0, 0, .6);
 }

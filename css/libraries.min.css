@@ -6706,13 +6706,13 @@ textarea.materialize-textarea {
     padding-left: 35px;
     cursor: pointer;
     display: inline-block;
-    height: 25px;
+    min-height: 25px;
     line-height: 25px;
     font-size: 1rem;
     -webkit-user-select: none;
     -moz-user-select: none;
     -ms-user-select: none;
-    user-select: none
+    user-select: none;
 }
 
 [type=checkbox]+span:not(.lever):before,
